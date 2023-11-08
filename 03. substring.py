@@ -7,6 +7,7 @@ while first_string in second_string:
     second_string = second_string.replace(first_string, '')
     
 
-print(second_string)    
+print(second_string)  
+  
 # Second task from me
 
